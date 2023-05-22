@@ -6,11 +6,10 @@ This mini project serves as an exploration of API communication and integration,
 ## Dependencies
 To run this project, make sure you have the following dependencies installed:
 
-- Node.js
+- Axios
 - Express
 - dotenv
 - cors
-- openai
 
 You can install the dependencies by running the following command:
 
