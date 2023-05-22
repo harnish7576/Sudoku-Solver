@@ -25,7 +25,7 @@ You can install the dependencies by running the following command:
 ### `npm run start:backend`
 
 ## API Used
-This project utilizes the Sudoku Solver API from RapidAPI. You can find more information about the API and its usage visit  [https://rapidapi.com/sosier/api/solve-sudoku](https://rapidapi.com/sosier/api/solve-sudoku).
+This project utilizes the Sudoku Solver API from RapidAPI. You can find more information about the API and its usage [here](https://rapidapi.com/sosier/api/solve-sudoku).
 
 ![Sudoku-Solver](sudoku-solver.png)
 
